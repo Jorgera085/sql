@@ -1,0 +1,2 @@
+--Criação de tabela
+CREATE TABLE schema.tabela;
